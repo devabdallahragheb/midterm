@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">testapp</string>
+    
+    <!-- Image Explorer Titles -->
+    <string name="title_miu_campus">MIU Campus</string>
+    <string name="title_faculty_student">Faculty and Students</string>
+    <string name="title_sustainable_living">Sustainable Living Center</string>
+    <string name="title_rainbow">Rainbow at MIU</string>
+    <string name="button_next">Next</string>
 </resources>
