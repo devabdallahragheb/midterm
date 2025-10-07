@@ -2,6 +2,16 @@
 
 A small Android image explorer application built with Jetpack Compose that displays images with titles and allows navigation through them with wrap-around functionality.
 
+## Screenshots
+
+### Running App - MIU Campus
+![App Screenshot - MIU Campus](screenshots/Screenshot%202025-10-07%20at%209.53.09%20AM.png)
+*Image Explorer showing MIU Campus with title and Next button*
+
+### Running App - Faculty and Students
+![App Screenshot - Faculty](screenshots/Screenshot%202025-10-07%20at%209.54.24%20AM.png)
+*Image Explorer showing Faculty and Students with title and Next button*
+
 ## Features
 
 ### Functional Requirements
