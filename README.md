@@ -155,3 +155,6 @@ Built for MIU Android Development Course - Midterm Project
 ## License
 
 Educational project for MIU coursework.
+
+<img width="1694" height="1078" alt="Screenshot 2025-10-07 at 9 50 56 AM" src="https://github.com/user-attachments/assets/881db4e4-72a5-4402-9e36-a63a6b27a53c" />
+
