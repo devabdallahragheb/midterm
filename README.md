@@ -162,6 +162,8 @@ this screen shoot for app
 
 
 this screen shoot for unit test<img width="1601" height="1003" alt="Screenshot 2025-10-07 at 10 04 33 AM" src="https://github.com/user-attachments/assets/f5619dea-b3be-4ef0-b57e-134e653dce58" />
+also for how to run it <img width="1565" height="327" alt="Screenshot 2025-10-07 at 10 06 45 AM" src="https://github.com/user-attachments/assets/0bc62153-a56a-419a-b5ad-8d8f94c2a398" />
+
 
 
 
